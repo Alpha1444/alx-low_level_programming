@@ -1,18 +1,14 @@
 #include <stdio.h>
 
-
 /**
- * main-run the main code
- *
- * Return (0) (Success)
- */
-int main (void)
-
+  *main-runs teh main code
+  *
+  *Return: 0 if program completes
+  */
+int main(void)
 {
-
-puts("\"programming is like building a multilingual puzzle");
-return (0);
-
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
 }
 
 
