@@ -1,12 +1,12 @@
 #include <stdio.h>
 
 /**
- * main-run the code in print f
+ * main-runs the main code
  *
- * Return (0): Success
+ * Return: 0 if program complete
  */
-int main (void)
+int main(void)
 {
-	printf("with proper grammer, but the outcome is a piece of art,\n");
+	printf("with proper grammar, but the outcome is a piece of art,\n");
 	return (0);
 }
